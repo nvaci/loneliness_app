@@ -1,4 +1,5 @@
 streamlit
 sentence-transformers
+sentence_transformers
 scikit-learn
 pandas
